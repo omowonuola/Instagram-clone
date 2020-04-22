@@ -212,6 +212,7 @@ nav {
 .share img {
     height: 45px;
     width: 45px;
+    background: none;
 }
 
 .share {
